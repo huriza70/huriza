@@ -1,0 +1,90 @@
+.body {
+    background-color: rgb(255, 255, 255);
+    background-position: fixed;
+    background-size: 1000px;
+    width: 1339px;
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+
+}
+
+.nameheader {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    margin-left: 530px;
+    margin-top: 30px;
+    margin-bottom: 0%;
+    font-size: 67px;
+    height: 80px;
+    width: 340px;
+}
+
+.nameparagraph {
+    font-family: serif, Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    margin-top: 12%px;
+    font-size: 30px;
+    height: 40px;
+    width: 190px;
+
+}
+
+.mountain {
+    margin-left: 490px;
+    font-size: 260px;
+
+}
+
+hr {
+    border-style: dotted none none none;
+    color: rgb(99, 93, 93);
+    width: 15%;
+    text-align: center;
+    border-width: 6px;
+    /* margin-top: 0.5em; */
+    /* margin-bottom: 0.5em;  */
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.intro {
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 1339px;
+}
+
+.nameh {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    margin-top: 70px;
+    font-size: 67px;
+    height: 80px;
+    width: 400px;
+    margin: bottom 4%;
+}
+
+.namep {
+    text-align: center;
+    font-size: larger;
+    font-weight: lighter;
+    font-family: sans-serif;
+    margin-bottom: 5%;
+}
+
+footer {
+    background-color: rgb(216, 226, 225);
+    height: 100px;
+    width: 1330px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    padding-right: 12px;
+    outline: none;
+    text-decoration-line: none;
+}
